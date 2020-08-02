@@ -39,10 +39,6 @@ export default {
   margin: 0 auto;
   z-index: 400;
 }
-
-.name-block   .title-text {
-    
-  }
 .name-block   h1 {
     font-size: 2.3rem;
     padding: 3rem 3rem;

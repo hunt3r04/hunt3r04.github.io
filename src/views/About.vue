@@ -1,7 +1,6 @@
 <template>
   <div id="about">
     <div class="container">
- 
       <div class="row pt-5">
         <div class="col-md-3">
           <div class="experience">
@@ -51,9 +50,9 @@ export default {
   background:url('../assets/img/about-bg-2.png')no-repeat;
   background-position: center;
   background-size: cover;
-  width:100vw;
+  width:100%;
   height:100vh;
-  overflow-x:none;
+  overflow-x:hidden;
   background-color:rgb(61, 2, 2);
 }
 .years{

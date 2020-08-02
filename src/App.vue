@@ -2,18 +2,21 @@
   <div>
     <home/>
     <about/>
+    <experience/>
   </div>
 </template>
 
 <script>
 import About from './views/About' //import the component
 import Home from "./views/Home"; //import the component
+import Experience from "./views/Experience"; //import the component
 
 export default {
   name: "App",
   components: {
     About  ,//instantiate it here
     Home,
+    Experience,
   },
 };
 </script>
