@@ -1,7 +1,8 @@
 <template>
   <div id="about">
+  <div class="w-w-100"></div>
     <div class="container">
-      <div class="row pt-5">
+      <div class="row">
         <div class="col-md-3">
           <div class="experience">
           <div class="years text-red">2+</div>
@@ -46,12 +47,14 @@ export default {
 </script>
 
 <style scoped>
+.w-w-100{
+  height: 160px;
+}
 #about{
   background:url('../assets/img/about-bg-2.png')no-repeat;
   background-position: center;
   background-size: cover;
   width:100%;
-  height:100vh;
   overflow-x:hidden;
   background-color:rgb(61, 2, 2);
 }
