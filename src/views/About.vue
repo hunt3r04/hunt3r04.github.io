@@ -2,7 +2,7 @@
   <div id="about">
   <div class="w-w-100"></div>
     <div class="container">
-      <div class="row">
+      <div class="row mb-80">
         <div class="col-md-3">
           <div class="experience">
           <div class="years text-red">2+</div>
@@ -48,7 +48,10 @@ export default {
 
 <style scoped>
 .w-w-100{
-  height: 160px;
+  height: 130px;
+}
+.mb-80{
+  margin-bottom: 80px;
 }
 #about{
   background:url('../assets/img/about-bg-2.png')no-repeat;
