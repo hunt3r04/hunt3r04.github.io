@@ -5,19 +5,19 @@
         <p>All Rights Reserved @ Devzw 2020</p>
       </div>
       <div class="socials d-flex justify-content-center">
-        <div class="linkedin mr-2">
+        <div class="linkedin mr-4">
           <a
             class="text-white"
             href="https://www.linkedin.com/in/muvimi-bongani/"
             ><i class="fab fa-linkedin"></i
           ></a>
         </div>
-        <div class="github mr-2 ">
+        <div class="github mr-4 ">
           <a class="text-white" href="https://github.com/hunt3r04"
             ><i class="fab fa-github"></i
           ></a>
         </div>
-        <div class="twitter mr-2">
+        <div class="twitter mr-4">
           <a href=""><i class="fab fa-twitter-square"></i></a>
         </div>
       </div>
