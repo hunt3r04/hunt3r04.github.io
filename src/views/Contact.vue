@@ -3,32 +3,7 @@
   <div class="h100"></div>
     <div class="container">
         <div class="row">
-      <div class="col-md-4 p-5 align-items-center">
-        <h1 class="mont-300 text-white">Contact</h1>
-        <div class="contact-details">
-          <div class="email">
-            <h6 class="mont-200 text-white">bongani.muvimi@devzw.tech</h6>
-          </div>
-          <div class="pnone">
-            <h6 class="mont-200 text-white">+263 71 8566 208</h6>
-          </div>
-          <div class="address">
-            <h6 class="mont-200 text-white">Chinhoyi, Zimbabwe, Africa, Earth</h6>
-          </div>
-          <div class="socials d-flex justify-content-center">
-            <div class="linkedin mr-2">
-              <a href="https://www.linkedin.com/in/muvimi-bongani/"><i class="fab fa-linkedin"></i></a>
-            </div>
-            <div class="github mr-2">
-                
-                <a href="https://github.com/hunt3r04"><i class="fab fa-github"></i></a>
-            </div>
-            <div class="twitter mr-2">
-              <a href=""><i class="fab fa-twitter-square"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
+      
       <div class="col-md-8">
         
         <div class="form-group p-5">

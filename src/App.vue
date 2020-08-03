@@ -1,9 +1,10 @@
 <template>
   <div>
-    <home/>
-    <about/>
-    <experience/>
-    <contact/>
+    <Home/>
+    <About/>
+    <Experience/>
+    <Contact/>
+    <Footer/>
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import About from './views/About' //import the component
 import Home from "./views/Home"; //import the component
 import Experience from "./views/Experience"; //import the component
 import Contact from "./views/Contact"; //import the component
+import Footer from "./components/Footer"; //import the component
 
 export default {
   name: "App",
@@ -19,7 +21,8 @@ export default {
     About  ,//instantiate it here
     Home,
     Experience,
-    Contact
+    Contact,
+    Footer,
   },
 };
 </script>
