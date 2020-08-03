@@ -71,6 +71,8 @@ export default {
 <style scoped>
     #contact-me{
         background: url('../assets/img/contact-bg.png');
+        background-position:center;
+        background-size: cover;
         min-height: 100vh;
         width:100vw;
     }
